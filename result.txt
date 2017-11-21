@@ -1,0 +1,32 @@
+repos based on stars:
+archery	110
+python-api-client	104
+android-device-names	47
+
+repos based on watch:
+archery	110
+python-api-client	104
+android-device-names	47
+
+repos based on fork:
+python-api-client	53
+widgets	26
+api	22
+
+unique contributors:
+web-flow	shaisachs	softprops	omwah	n8han	
+
+contributors based on additions:
+web-flow	108
+n8han	52
+shaisachs	33
+
+contributors based on deletions:
+n8han	115
+web-flow	31
+omwah	4
+
+contributors based on number of commits:
+web-flow	2
+n8han	2
+shaisachs	1
